@@ -11,3 +11,5 @@ print ("x = "+str(x)+" y = "+str(y))
 print ("\nEsta dentro da tela?")
 resp = pyautogui.onScreen(x, y)
 print (str(resp))
+
+print('teste')
